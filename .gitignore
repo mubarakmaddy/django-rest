@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+/*/settings/local.py
+/static/
+/media/
+/docs/_build/
+/db.sqlite3
+*.sqlite3
+/env/
+.idea
+*~
+
+logs
+/static*/
